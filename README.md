@@ -1,16 +1,17 @@
-### Hi there 👋
+# Weslem Martins
+<h4>Sou um entusiasta da programação explorando o mundo do desenvolvimento backend com Python 🐍. Atualmente, estou dando os primeiros passos nessa emocionante jornada. Adoro aprender, criar e enfrentar desafios. Vamos codificar juntos! ✨🖥️ #Python #Backend #Aprendendo</h4>
 
-<!--
-**WeslemMartins/WeslemMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conecte-se comigo
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/weslem-martins/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=00FF00&style=for-the-badge)](https://www.instagram.com/weslem_mmartins/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades:
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FF00) 
+![Django Badge](https://img.shields.io/badge/Django-000?logo=django&logoColor=00FF00&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=00FF00&style=for-the-badge)
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octoeli&theme=transparent&bg_color=000000&border_color=00FF00&show_icons=False&icon_color=fff&title_color=00FF00&text_color=fff&hide_title=true&hide=stars)
