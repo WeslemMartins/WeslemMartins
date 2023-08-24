@@ -4,7 +4,6 @@
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B8860B)](https://www.linkedin.com/in/weslem-martins/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=B8860B&style=for-the-badge)](https://www.instagram.com/weslem_mmartins/)
 
 ## Habilidades:
 
